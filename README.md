@@ -96,7 +96,7 @@ Content-Type: application/json
 GET http://localhost:8080/people?name=Ivan&surname=Ivanov
 Content-Type: application/json
 ```
-##№ Пагинация
+### Пагинация
 
 Система поддерживает поиск людей  с возможностью **пагинации** (постраничного вывода результатов).
 ###№ Формат запроса
